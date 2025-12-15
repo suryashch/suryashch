@@ -1,4 +1,4 @@
-## Suryash Chakravarty
+# Suryash Chakravarty
 ### BIM | Data Science | Construction Tech
 
 Specialized in bridging the gap between construction data and 3D computational performance. I build tools to optimize 3D assets for the web and analyze building information using data science pipelines.
