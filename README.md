@@ -1,16 +1,15 @@
-## Hi there 👋
+## Suryash Chakravarty
+### BIM | Data Scientist | Construction Tech
 
-<!--
-**suryashch/suryashch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specialized in bridging the gap between construction data and 3D computational performance. I build tools to optimize 3D assets for the web and analyze building information using data science pipelines.
 
-Here are some ideas to get you started:
+### Technical Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Domain | Technologies & Standards |
+| :--- | :--- |
+| **BIM & Interoperability** | IFC (Industry Foundation Classes), Blender, Revit |
+| **3D Web & Graphics** | Three.js, WebGL, glTF/GLB Optimization |
+| **Data Science** | Python (Pandas, NumPy), Scikit-learn, Computer Vision |
+| **Performance** | Asset Compression, LOD (Level of Detail) Automation |
+
+---
