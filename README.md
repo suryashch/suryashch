@@ -17,8 +17,8 @@ Specialized in bridging the gap between construction and data science. I build t
 ## Research I am currently working on:
 
 ### 3d_modelling: 
+[https://github.com/suryashch/3d_modelling](https://github.com/suryashch/3d_modelling) 
 
 A repository where I try to understand the nuances of 3D modelling from wireframe compression, to web hosting.
 
-[https://github.com/suryashch/3d_modelling](https://github.com/suryashch/3d_modelling) 
 
