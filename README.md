@@ -14,7 +14,7 @@ Bridging construction analytics with high-performance 3D visualization.
 
 ---
 
-## Research I am currently working on:
+## Links to Research:
 
 ### [3d_modelling:](https://github.com/suryashch/3d_modelling) 
 
