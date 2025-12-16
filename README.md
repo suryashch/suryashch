@@ -22,4 +22,4 @@ Investigating the 3D modeling pipeline, from wireframe compression to low-latenc
 
 ### [construction-science:](https://github.com/suryashch/construction-science)
 
-Applying ML techniques to construction data.
+Applying ML techniques to construction data. Work in Progress.
