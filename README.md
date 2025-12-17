@@ -1,7 +1,7 @@
 # Suryash Chakravarty
 ### Data Science | Construction
 
-Bridging construction analytics with high-performance 3D visualization.
+Bridging construction analytics with high performance 3D visualization.
 
 ---
 
