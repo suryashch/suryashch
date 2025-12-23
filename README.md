@@ -11,6 +11,6 @@ Bridging construction analytics with high performance 3D visualization.
 
 Investigating the 3D modeling pipeline, from wireframe compression to low-latency web hosting.
 
-### [construction-science:](https://github.com/suryashch/construction-science)
+### [construction_science:](https://github.com/suryashch/construction-science)
 
 Applying ML techniques to construction data. Work in Progress.
