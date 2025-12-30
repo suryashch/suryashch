@@ -1,6 +1,6 @@
 # Suryash Chakravarty
 
-3D visualization with Analytics
+3D Visualization with Analytics
 
 ---
 
