@@ -8,4 +8,4 @@
 
 ### [3d_modelling:](https://github.com/suryashch/3d_modelling) 
 
-Investigating the 3D modeling pipeline, from wireframe compression to low-latency web hosting.
+A Proof of Concept for a Dynamic LOD Switching 3D Model.
